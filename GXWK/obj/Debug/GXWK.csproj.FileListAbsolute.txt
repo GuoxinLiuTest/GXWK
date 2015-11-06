@@ -23,3 +23,4 @@ F:\MVC_Training\GXWK\GXWK\obj\Debug\ToyAppChina.Migrations.UpdateMovie.resources
 F:\MVC_Training\GXWK\GXWK\obj\Debug\GXWK.csproj.GenerateResource.Cache
 F:\MVC_Training\GXWK\GXWK\obj\Debug\ToyAppChina.dll
 F:\MVC_Training\GXWK\GXWK\obj\Debug\ToyAppChina.pdb
+F:\MVC_Training\GXWK\GXWK\obj\Debug\GXWK.csprojResolveAssemblyReference.cache
