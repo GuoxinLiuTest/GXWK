@@ -1,0 +1,13 @@
+﻿<header class="navbar navbar-fixed-top navbar-inverse">
+  <div class="container">
+    @Html.ActionLink("Guoxin's Homework", "Home", "StaticPages", null, new { id = "logo" })
+
+    <nav>
+      <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Movie", "Index", "Movies")</li>
+        <li>@Html.ActionLink("Home", "Home", "StaticPages")</li>
+        <li>@Html.ActionLink("Help", "Help", "StaticPages")</li>
+      </ul>
+    </nav>
+  </div>
+</header>
