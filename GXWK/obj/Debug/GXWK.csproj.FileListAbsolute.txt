@@ -24,3 +24,16 @@ F:\MVC_Training\GXWK\GXWK\obj\Debug\GXWK.csproj.GenerateResource.Cache
 F:\MVC_Training\GXWK\GXWK\obj\Debug\ToyAppChina.dll
 F:\MVC_Training\GXWK\GXWK\obj\Debug\ToyAppChina.pdb
 F:\MVC_Training\GXWK\GXWK\obj\Debug\GXWK.csprojResolveAssemblyReference.cache
+F:\MVC_Training\GXWK\GXWK\bin\ApplicationInsights.config
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.DependencyCollector.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.Web.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.WindowsServer.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.ApplicationInsights.dll
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.DependencyCollector.xml
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.Web.xml
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.AI.WindowsServer.xml
+F:\MVC_Training\GXWK\GXWK\bin\Microsoft.ApplicationInsights.xml
